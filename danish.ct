@@ -1,4 +1,4 @@
-## version $VER: screenmode.catalog 1.0 (22.07.2010)
+## version $VER: screenmode.catalog 2.0 (06.08.2026)
 ## language dansk
 ## codeset 0
 ;
@@ -39,4 +39,56 @@ Tilstands-ID
 MSG_DESCRIPTION
 Beskrivelse
 ; Description
+;
+MSG_MODE_ATTRIBUTES
+Tilstandsattributter
+; Mode Attributes
+;
+MSG_VISIBLE_SIZE
+Synlig størrelse
+; Visible Size
+;
+MSG_MINIMUM_SIZE
+Mindste størrelse
+; Minimum Size
+;
+MSG_MAXIMUM_SIZE
+Maksimal størrelse
+; Maximum Size
+;
+MSG_MAXIMUM_COLORS
+Maksimalt antal farver
+; Maximum Colors
+;
+MSG_FREQUENCY
+Frekvens
+; Frequency
+;
+MSG_INTERLACED
+Interlaced\n
+; Interlaced\n
+;
+MSG_WANTS_ECS
+Kræver ECS\n
+; Requires ECS\n
+;
+MSG_DUALP
+Dobbelte playfields\n
+; Dual playfields\n
+;
+MSG_GENLOCK
+Understøtter genlock\n
+; Supports genlock\n
+;
+MSG_DRAGGABLE
+Kan trækkes\n
+; Draggable\n
+;
+MSG_PANELLED
+Panelopdelt til scan-konvertering\n
+; Panelled for scan conversion\n
+;
+MSG_BEAM_SYNC
+Understøtter strålesynkronisering\n
+; Supports beam synchronization\n
 ;

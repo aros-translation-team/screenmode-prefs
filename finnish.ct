@@ -1,4 +1,4 @@
-## version $VER: ScreenMode.catalog 1.0 (27.01.2005)
+## version $VER: ScreenMode.catalog 2.0 (06.08.2026)
 ## language suomi
 ## codeset 0
 ;
@@ -20,4 +20,68 @@ MSG_DEPTH
 ;
 MSG_AUTOSCROLL
 \33lAutomaattinen vieritys
+;
+MSG_DISPLAY_MODE
+Näyttötila
+; Display Mode
+;
+MSG_MODE_ID
+Tilan ID
+; Mode ID
+;
+MSG_DESCRIPTION
+Kuvaus
+; Description
+;
+MSG_MODE_ATTRIBUTES
+Tilan ominaisuudet
+; Mode Attributes
+;
+MSG_VISIBLE_SIZE
+Näkyvä koko
+; Visible Size
+;
+MSG_MINIMUM_SIZE
+Vähimmäiskoko
+; Minimum Size
+;
+MSG_MAXIMUM_SIZE
+Suurin koko
+; Maximum Size
+;
+MSG_MAXIMUM_COLORS
+Värien enimmäismäärä
+; Maximum Colors
+;
+MSG_FREQUENCY
+Taajuus
+; Frequency
+;
+MSG_INTERLACED
+Lomitettu\n
+; Interlaced\n
+;
+MSG_WANTS_ECS
+Vaatii ECS:n\n
+; Requires ECS\n
+;
+MSG_DUALP
+Kaksoisplayfield\n
+; Dual playfields\n
+;
+MSG_GENLOCK
+Tukee genlockia\n
+; Supports genlock\n
+;
+MSG_DRAGGABLE
+Vedettävissä\n
+; Draggable\n
+;
+MSG_PANELLED
+Paneloitu juovamuunnosta varten\n
+; Panelled for scan conversion\n
+;
+MSG_BEAM_SYNC
+Tukee säteen tahdistusta\n
+; Supports beam synchronization\n
 ;

@@ -1,4 +1,4 @@
-## version $VER: screenmode.catalog 1.1 (23.12.2009)
+## version $VER: screenmode.catalog 2.0 (06.08.2026)
 ## language hrvatski
 ## codeset 5
 ;
@@ -30,4 +30,64 @@ MSG_AUTOSCROLL
 MSG_DISPLAY_MODE
 Mod Zaslona
 ; Display Mode
+;
+MSG_MODE_ID
+ID Moda
+; Mode ID
+;
+MSG_DESCRIPTION
+Opis
+; Description
+;
+MSG_MODE_ATTRIBUTES
+Atributi Moda
+; Mode Attributes
+;
+MSG_VISIBLE_SIZE
+Vidljiva Velièina
+; Visible Size
+;
+MSG_MINIMUM_SIZE
+Minimalna Velièina
+; Minimum Size
+;
+MSG_MAXIMUM_SIZE
+Maksimalna Velièina
+; Maximum Size
+;
+MSG_MAXIMUM_COLORS
+Maksimalno Boja
+; Maximum Colors
+;
+MSG_FREQUENCY
+Frekvencija
+; Frequency
+;
+MSG_INTERLACED
+S preplitanjem\n
+; Interlaced\n
+;
+MSG_WANTS_ECS
+Zahtijeva ECS\n
+; Requires ECS\n
+;
+MSG_DUALP
+Dual playfields\n
+; Dual playfields\n
+;
+MSG_GENLOCK
+Podr¾ava genlock\n
+; Supports genlock\n
+;
+MSG_DRAGGABLE
+Mo¾e se povlaèiti\n
+; Draggable\n
+;
+MSG_PANELLED
+Podijeljen za konverziju skena\n
+; Panelled for scan conversion\n
+;
+MSG_BEAM_SYNC
+Podr¾ava sinkronizaciju zrake\n
+; Supports beam synchronization\n
 ;
