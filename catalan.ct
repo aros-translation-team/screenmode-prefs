@@ -1,0 +1,92 @@
+## version $VER: ScreenMode.catalog 2.0 (06.08.2026)
+## language català
+## codeset 0
+;
+MSG_NAME
+Preferències de mode de pantalla
+; ScreenMode Preferences
+;
+MSG_WIDTH
+\33lAmplada:
+; \33lWidth:
+;
+MSG_DEFAULT
+\33l_defecte
+; \33l_default
+;
+MSG_HEIGHT
+\33lAlçada:
+; \33lHeight:
+;
+MSG_DEPTH
+\33lProfunditat:
+; \33lDepth:
+;
+MSG_AUTOSCROLL
+\33lAutodesplaçament
+; \33lAutoscroll
+;
+MSG_DISPLAY_MODE
+Mode de pantalla
+; Display Mode
+;
+MSG_MODE_ID
+ID del mode
+; Mode ID
+;
+MSG_DESCRIPTION
+Descripció
+; Description
+;
+MSG_MODE_ATTRIBUTES
+Atributs del mode
+; Mode Attributes
+;
+MSG_VISIBLE_SIZE
+Mida visible
+; Visible Size
+;
+MSG_MINIMUM_SIZE
+Mida mínima
+; Minimum Size
+;
+MSG_MAXIMUM_SIZE
+Mida màxima
+; Maximum Size
+;
+MSG_MAXIMUM_COLORS
+Colors màxims
+; Maximum Colors
+;
+MSG_FREQUENCY
+Freqüència
+; Frequency
+;
+MSG_INTERLACED
+Entrellaçat\n
+; Interlaced\n
+;
+MSG_WANTS_ECS
+Requereix ECS\n
+; Requires ECS\n
+;
+MSG_DUALP
+Camps de joc duals\n
+; Dual playfields\n
+;
+MSG_GENLOCK
+Admet genlock\n
+; Supports genlock\n
+;
+MSG_DRAGGABLE
+Arrossegable\n
+; Draggable\n
+;
+MSG_PANELLED
+Panellat per a conversió d'escombrat\n
+; Panelled for scan conversion\n
+;
+MSG_BEAM_SYNC
+Admet sincronització de feix\n
+; Supports beam synchronization\n
+;

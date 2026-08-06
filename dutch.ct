@@ -1,0 +1,92 @@
+## version $VER: ScreenMode.catalog 2.0 (06.08.2026)
+## language nederlands
+## codeset 0
+;
+MSG_NAME
+Schermmodus instellingen
+; ScreenMode Preferences
+;
+MSG_WIDTH
+\33lBreedte:
+; \33lWidth:
+;
+MSG_DEFAULT
+\33l_standaard
+; \33l_default
+;
+MSG_HEIGHT
+\33lHoogte:
+; \33lHeight:
+;
+MSG_DEPTH
+\33lDiepte:
+; \33lDepth:
+;
+MSG_AUTOSCROLL
+\33lAutomatisch rollen
+; \33lAutoscroll
+;
+MSG_DISPLAY_MODE
+Weergavemodus
+; Display Mode
+;
+MSG_MODE_ID
+Mode ID
+; Mode ID
+;
+MSG_DESCRIPTION
+Beschrijving
+; Description
+;
+MSG_MODE_ATTRIBUTES
+Mode-eigenschappen
+; Mode Attributes
+;
+MSG_VISIBLE_SIZE
+Zichtbare grootte
+; Visible Size
+;
+MSG_MINIMUM_SIZE
+Minimale grootte
+; Minimum Size
+;
+MSG_MAXIMUM_SIZE
+Maximale grootte
+; Maximum Size
+;
+MSG_MAXIMUM_COLORS
+Maximum aantal kleuren
+; Maximum Colors
+;
+MSG_FREQUENCY
+Frequentie
+; Frequency
+;
+MSG_INTERLACED
+Interlaced\n
+; Interlaced\n
+;
+MSG_WANTS_ECS
+Vereist ECS\n
+; Requires ECS\n
+;
+MSG_DUALP
+Dual playfields\n
+; Dual playfields\n
+;
+MSG_GENLOCK
+Ondersteunt genlock\n
+; Supports genlock\n
+;
+MSG_DRAGGABLE
+Versleepbaar\n
+; Draggable\n
+;
+MSG_PANELLED
+Opgedeeld voor scanconversie\n
+; Panelled for scan conversion\n
+;
+MSG_BEAM_SYNC
+Ondersteunt beamsynchronisatie\n
+; Supports beam synchronization\n
+;

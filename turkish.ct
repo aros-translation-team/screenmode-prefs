@@ -1,0 +1,92 @@
+## version $VER: ScreenMode.catalog 2.0 (06.08.2026)
+## language türkçe
+## codeset 12
+;
+MSG_NAME
+Ekran Kipi Tercihleri
+; ScreenMode Preferences
+;
+MSG_WIDTH
+\33lGeniþlik:
+; \33lWidth:
+;
+MSG_DEFAULT
+\33l_varsayýlan
+; \33l_default
+;
+MSG_HEIGHT
+\33lYükseklik:
+; \33lHeight:
+;
+MSG_DEPTH
+\33lDerinlik:
+; \33lDepth:
+;
+MSG_AUTOSCROLL
+\33lOtomatik kaydýrma
+; \33lAutoscroll
+;
+MSG_DISPLAY_MODE
+Görüntü Modu
+; Display Mode
+;
+MSG_MODE_ID
+Kip ID
+; Mode ID
+;
+MSG_DESCRIPTION
+Açýklama
+; Description
+;
+MSG_MODE_ATTRIBUTES
+Kip Öznitelikleri
+; Mode Attributes
+;
+MSG_VISIBLE_SIZE
+Görünür Boyut
+; Visible Size
+;
+MSG_MINIMUM_SIZE
+Minimum Boyut
+; Minimum Size
+;
+MSG_MAXIMUM_SIZE
+Maksimum Boyut
+; Maximum Size
+;
+MSG_MAXIMUM_COLORS
+Maksimum Renk
+; Maximum Colors
+;
+MSG_FREQUENCY
+Frekans
+; Frequency
+;
+MSG_INTERLACED
+Taramalý\n
+; Interlaced\n
+;
+MSG_WANTS_ECS
+ECS Gerektirir\n
+; Requires ECS\n
+;
+MSG_DUALP
+Ýkili alanlar\n
+; Dual playfields\n
+;
+MSG_GENLOCK
+Genlock desteði\n
+; Supports genlock\n
+;
+MSG_DRAGGABLE
+Sürüklenebilir\n
+; Draggable\n
+;
+MSG_PANELLED
+Tarama dönüþümü için panelli\n
+; Panelled for scan conversion\n
+;
+MSG_BEAM_SYNC
+Iþýn senkronizasyonu desteði\n
+; Supports beam synchronization\n
+;

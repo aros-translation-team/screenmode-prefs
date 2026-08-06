@@ -1,0 +1,92 @@
+## version $VER: ScreenMode.catalog 2.0 (06.08.2026)
+## language svenska
+## codeset 0
+;
+MSG_NAME
+Skärmlägesinställningar
+; ScreenMode Preferences
+;
+MSG_WIDTH
+\33lBredd:
+; \33lWidth:
+;
+MSG_DEFAULT
+\33l_standard
+; \33l_default
+;
+MSG_HEIGHT
+\33lHöjd:
+; \33lHeight:
+;
+MSG_DEPTH
+\33lDjup:
+; \33lDepth:
+;
+MSG_AUTOSCROLL
+\33lAutorullning
+; \33lAutoscroll
+;
+MSG_DISPLAY_MODE
+Skärmläge
+; Display Mode
+;
+MSG_MODE_ID
+Läges-ID
+; Mode ID
+;
+MSG_DESCRIPTION
+Beskrivning
+; Description
+;
+MSG_MODE_ATTRIBUTES
+Lägesattribut
+; Mode Attributes
+;
+MSG_VISIBLE_SIZE
+Synlig storlek
+; Visible Size
+;
+MSG_MINIMUM_SIZE
+Minimal storlek
+; Minimum Size
+;
+MSG_MAXIMUM_SIZE
+Maximal storlek
+; Maximum Size
+;
+MSG_MAXIMUM_COLORS
+Maximalt antal färger
+; Maximum Colors
+;
+MSG_FREQUENCY
+Frekvens
+; Frequency
+;
+MSG_INTERLACED
+Sammanflätad\n
+; Interlaced\n
+;
+MSG_WANTS_ECS
+Kräver ECS\n
+; Requires ECS\n
+;
+MSG_DUALP
+Dubbla spelfält\n
+; Dual playfields\n
+;
+MSG_GENLOCK
+Stöder genlock\n
+; Supports genlock\n
+;
+MSG_DRAGGABLE
+Dragbar\n
+; Draggable\n
+;
+MSG_PANELLED
+Panelerat för avsökningskonvertering\n
+; Panelled for scan conversion\n
+;
+MSG_BEAM_SYNC
+Stöder strålsynkronisering\n
+; Supports beam synchronization\n
+;

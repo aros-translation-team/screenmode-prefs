@@ -1,0 +1,92 @@
+## version $VER: ScreenMode.catalog 2.0 (06.08.2026)
+## language srpski
+## codeset 8
+;
+MSG_NAME
+Podeçavanja moda ekrana
+; ScreenMode Preferences
+;
+MSG_WIDTH
+\33læirina:
+; \33lWidth:
+;
+MSG_DEFAULT
+\33l_podrazumevani
+; \33l_default
+;
+MSG_HEIGHT
+\33lVisina:
+; \33lHeight:
+;
+MSG_DEPTH
+\33lDubina:
+; \33lDepth:
+;
+MSG_AUTOSCROLL
+\33lAuto-skrol
+; \33lAutoscroll
+;
+MSG_DISPLAY_MODE
+Mod prikaza
+; Display Mode
+;
+MSG_MODE_ID
+ID moda
+; Mode ID
+;
+MSG_DESCRIPTION
+Opis
+; Description
+;
+MSG_MODE_ATTRIBUTES
+Atributi moda
+; Mode Attributes
+;
+MSG_VISIBLE_SIZE
+Vidljiva veliŸina
+; Visible Size
+;
+MSG_MINIMUM_SIZE
+Minimalna veliŸina
+; Minimum Size
+;
+MSG_MAXIMUM_SIZE
+Maksimalna veliŸina
+; Maximum Size
+;
+MSG_MAXIMUM_COLORS
+Maksimalno boja
+; Maximum Colors
+;
+MSG_FREQUENCY
+Frekvencija
+; Frequency
+;
+MSG_INTERLACED
+Interlejs\n
+; Interlaced\n
+;
+MSG_WANTS_ECS
+Zahteva ECS\n
+; Requires ECS\n
+;
+MSG_DUALP
+Dvostruka polja prikaza\n
+; Dual playfields\n
+;
+MSG_GENLOCK
+Podr§ava genlock\n
+; Supports genlock\n
+;
+MSG_DRAGGABLE
+Mo§e se pomerati\n
+; Draggable\n
+;
+MSG_PANELLED
+Panelizovan za konverziju skeniranja\n
+; Panelled for scan conversion\n
+;
+MSG_BEAM_SYNC
+Podr§ava sinhronizaciju snopa\n
+; Supports beam synchronization\n
+;
